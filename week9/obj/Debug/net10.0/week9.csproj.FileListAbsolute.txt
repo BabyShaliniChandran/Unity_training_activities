@@ -1,0 +1,15 @@
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\bin\Debug\net10.0\week9.exe
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\bin\Debug\net10.0\week9.deps.json
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\bin\Debug\net10.0\week9.runtimeconfig.json
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\bin\Debug\net10.0\week9.dll
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\bin\Debug\net10.0\week9.pdb
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.AssemblyInfoInputs.cache
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.AssemblyInfo.cs
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.csproj.CoreCompileInputs.cache
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.sourcelink.json
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.dll
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\refint\week9.dll
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.pdb
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\week9.genruntimeconfig.cache
+C:\Users\Shalini\OneDrive\Documents\Fun Task\week9\obj\Debug\net10.0\ref\week9.dll
