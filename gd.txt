@@ -1,0 +1,44 @@
+
+GAME PLAN
+
+CONCEPT:
+
+Simple 3d game where we will have a player and the enemy the player has to collect the collectables and using the collected bone the player will attack the enemy if the player killed the enemy the player will regain the health power .
+the enemy will chase the player if he collide with the enemy
+if the player move fast and exited the circle the enemy will go to this original position .
+
+
+PLAYER
+
+ROLE:
+will collect the bones
+
+attack the enemy using the collected bones
+
+ACTIVITIES:
+
+RUN 
+JUMP
+ATTACK
+
+ENEMY
+
+ROLE:
+
+Chase the player
+
+Attack the player
+
+ACTIVITIES:
+
+MOVE AROUND 
+CHASE THE PLAYER
+
+COMMON THINGS:
+
+Both the player and enemy will have a health bar
+if the player health bar is empty the player will die the game will end 
+
+
+
+
